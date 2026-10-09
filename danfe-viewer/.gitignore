@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+.pytest_cache/
+# XMLs reais de clientes: dados fiscais, nao versionar
+samples/*.xml
+samples/*.XML
+samples/out/
