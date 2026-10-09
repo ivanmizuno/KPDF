@@ -11,7 +11,10 @@ Programa para **Windows** que abre o XML da NF-e (modelo 55), mostra o **DANFE**
 1. Instale o Python 3.11 ou mais novo em <https://www.python.org/downloads/>.
    **Na primeira tela do instalador, marque "Add python.exe to PATH".**
 2. Nesta pasta, dê dois cliques em **`instalar.bat`**. Ele baixa as bibliotecas (precisa de internet).
-3. Pronto. Dê dois cliques em **`abrir.bat`**.
+3. Dê dois cliques em **`criar_atalho.bat`**: cria o atalho **DANFE Viewer** na Área de Trabalho (abre sem janela preta).
+4. Pronto. Use o atalho, ou dê dois cliques em **`abrir.bat`**.
+
+> Não mova nem apague esta pasta depois: o atalho aponta para ela.
 
 ## Como usar
 
